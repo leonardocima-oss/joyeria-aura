@@ -1,0 +1,6 @@
+{
+  "name": "Aura Joyas - Tienda Online",
+  "description": "Tienda online de joyería fina con catálogo de productos, precios y carrito de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
